@@ -66,12 +66,6 @@
 
 <!-- SUPPORT -->
 <hr>
-<h3 align="center">Support:</h3>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/jamilahmed00">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jamilahmed00">
-    </a>
-</p>
 
 <hr>
 <p>Credits: <a href="https://github.com/JamilAhmed00">Jamil Ahmed</a></p>
