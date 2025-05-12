@@ -3,9 +3,9 @@
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="GIF" width="400" height="300">
 </p>
 
-<p>A <strong>Backend DEVELOPMENT</strong> <em><strong>AI Enthusiast</strong></em> 🚀.</p>
+<p>A <strong>BACKEND DEVELOPER</strong> <em><strong>AI Enthusiast</strong></em> 🚀.</p>
 
-<p><strong>About Me!</strong></p>
+
 <hr>
 
 <!-- MAIN PHRASE SECTION -->
