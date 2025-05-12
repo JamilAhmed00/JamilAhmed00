@@ -1,4 +1,11 @@
-<p><img src="https://github.com/JamilAhmed00/JamilAhmed00/blob/main/welcome.jpg?raw=true" alt="Welcome to my profile"></p>
+<!-- GIF AT THE TOP -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="GIF" width="400" height="300">
+</p>
+
+<p>A <strong>Backend DEVELOPMENT</strong> <em><strong>AI Enthusiast</strong></em> 🚀.</p>
+
+<p><strong>About Me!</strong></p>
 <hr>
 
 <!-- MAIN PHRASE SECTION -->
