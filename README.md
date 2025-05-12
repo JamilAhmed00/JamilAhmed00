@@ -53,19 +53,18 @@
 </p>  
 
 <!-- GITHUB STATS -->
+<!-- GITHUB STATS -->
 <hr>
 <h3 align="center">Stats:</h3>
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en" alt="JamilAhmed00" />
+    <a href="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&hide_rank=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&hide_rank=true" alt="JamilAhmed00" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&layout=compact">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&layout=compact" alt="JamilAhmed00" />
     </a>
 </p>
 
-<!-- SUPPORT -->
-<hr>
 
 <hr>
 <p>Credits: <a href="https://github.com/JamilAhmed00">Jamil Ahmed</a></p>
